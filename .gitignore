@@ -5,3 +5,6 @@ __pycache__
 .DS_Store
 processing_data.py
 .vscode
+VGG16_cats_and_dogs.h5
+saved_model.pb
+keras_metadata.pb
