@@ -8,3 +8,4 @@ processing_data.py
 VGG16_cats_and_dogs.h5
 saved_model.pb
 keras_metadata.pb
+variables
